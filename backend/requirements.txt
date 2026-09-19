@@ -1,0 +1,10 @@
+# Digital Hospital Token & Appointment Platform
+# Backend Dependencies
+# Install: pip install -r requirements.txt
+
+Django==4.2
+djangorestframework==3.16.1
+djangorestframework-simplejwt==5.5.1
+django-cors-headers==4.9.0
+drf-spectacular==0.30.0
+psycopg2-binary==2.9.13
